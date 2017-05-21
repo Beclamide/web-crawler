@@ -1,0 +1,19 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "A simple web crawler that generates a sitemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beclamide/web-crawler.git"
+  },
+  "author": "John Bower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beclamide/web-crawler/issues"
+  },
+  "homepage": "https://github.com/Beclamide/web-crawler#readme"
+}
